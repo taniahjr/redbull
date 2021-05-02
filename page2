@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K44QKML');</script>
+<!-- End Google Tag Manager -->
+    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Red Bull Dance City Guide</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Casestudy</title>
+    
+    
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+    <link rel="stylesheet" href="/style.css">
+
+    
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <!-- <script src="js/script.js"></script>-->
+    
+
+  </head>  
+  <body>    
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K44QKML"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    
+    
+      <!-- NAV BAR -->
+      <div class= "tabs">
+        <div>
+          <img src="https://cdn.glitch.com/1d273856-2caf-495f-b1f5-a7055e076864%2Fcartoon_can.png?v=1619813531412" id= "can">
+          </div>
+        <div class = "tab-item">
+          <a href = "#men"><h3>Men</h3></a>
+        </div>
+        
+        <div class = "tab-item">
+          <a href = "#women"><h3>Women</h3></a>
+        </div>
+        
+        <div class = "tab-item">
+          <a href= "#goodies"><h3>Goodies</h3></a>
+        </div>
+    </div>
+    
+      <!-- BANNER -->
+      <div class = "banner" id="banner">
+          <div class= "banner-content">
+            <h1>Merchandise store</h1>
+            <p>Presenting the 2021 Red Bull Racing Collection</p>
+            <a href= "#form-title" class = "btn btn-danger btn-lg">View all collection</a>
+            <a href = "index.html" class = "btn btn-danger btn-lg">Back to Home Page</a>
+          </div>      
+        </div>
+    
+    <!-- MEN CARDS -->
+     <div class = "description" id= "men">
+      <h3>For him</h3>
+     </div>
+    
+    <div class= "row" >
+      <div class="col-xs-12 col-sm-4">
+        <div class = "card" id = "photo4">
+         <div class="card-description">
+          <a href ="https://www.redbullshopus.com/"><h3>40$</h3>
+            </a>
+         </div>
+        </div> 
+      
+      </div>
+      <div class="col-xs-12 col-sm-4">
+        <div class = "card" id = "photo5">
+         <div class="card-description">
+          <a href = "https://www.redbullshopus.com/"><h3>40$</h3>
+             </a>
+        </div>
+        </div> 
+      </div>
+      
+      <div class="col-xs-12 col-sm-4">
+        <div class = "card" id = "photo6">
+         <div class="card-description">
+          <a href = "https://www.redbullshopus.com/"><h3>40$</h3>
+           </a>
+          </div>
+        </div> 
+      </div>
+    </div>
+    
+    
+    <!-- WOMEN CARDS -->
+     <div class = "description" id = "women">
+      <h3>For her</h3>
+     </div>
+
+    <div class= "row" >
+      <div class="col-xs-12 col-sm-4">
+        <div class = "card" id = "photo7">
+         <div class="card-description">
+          <a href ="https://www.redbullshopus.com/"><h3>40$</h3>
+            </a>
+         </div>
+        </div> 
+      
+      </div>
+      <div class="col-xs-12 col-sm-4">
+        <div class = "card" id = "photo8">
+         <div class="card-description">
+          <a href = "https://www.redbullshopus.com/"><h3>40$</h3>
+             </a>
+        </div>
+        </div> 
+      </div>
+      
+      <div class="col-xs-12 col-sm-4">
+        <div class = "card" id = "photo9">
+        <div class="card-description">
+          <a href = "https://www.redbullshopus.com/"><h3>40$</h3>
+           </a>
+          </div>
+        </div> 
+      </div>
+    </div>
+    
+    <!-- GOODIES CARDS -->
+     <div class = "description" id= "goodies">
+      <h3>Goodies</h3>
+     </div>
+
+    <div class= "row" >
+      <div class="col-xs-12 col-sm-4">
+        <div class = "card" id = "photo10">
+        <div class="card-description">
+          <a href ="https://www.redbullshopus.com/"><h3>40$</h3>
+            </a>
+         </div>
+        </div> 
+      
+      </div>
+      <div class="col-xs-12 col-sm-4">
+        <div class = "card" id = "photo11">
+         <div class="card-description">
+          <a href = "https://www.redbullshopus.com/"><h3>40$</h3>
+             </a>
+        </div>
+        </div> 
+      </div>
+      
+      <div class="col-xs-12 col-sm-4">
+        <div class = "card" id = "photo12">
+         <div class="card-description">
+          <a href = "https://www.redbullshopus.com/"><h3>40$</h3>
+           </a>
+          </div>
+        </div> 
+      </div>
+    </div>
+  
+    
+    <!-- FOOTER -->
+ <div id= "footer">
+    <img src = "https://cdn.glitch.com/1d273856-2caf-495f-b1f5-a7055e076864%2Fred-bull-logo-2-1.png?v=1619793849771" id = "logo" width="90" height="60">   
+  <ul class = "list-inline">
+    <li> <a href = "https://www.facebook.com/RedBull/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+    <li> <a href = "https://twitter.com/redbull?lang=fr"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+    <li> <a href = "https://www.youtube.com/channel/UCblfuW_4rakIf2h6aqANefA"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+    <li> <a href = "https://www.instagram.com/redbull/?hl=fr"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+   </ul>
+   <a href= "https://www.redbull.com/fr-fr/energydrink?rbcid=6532_P_2018_FRA_BAP_DIGSEM_Google_Brand&gclid=Cj0KCQjw1a6EBhC0ARIsAOiTkrGE2xYVulQyXGmUtIeMtdseYUeeonDbjdf0WU7AvICJVzZxEmc36YYaAt4EEALw_wcB" > More info here</a>
+ </div>
+  </body>
+</html>
