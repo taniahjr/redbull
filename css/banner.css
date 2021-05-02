@@ -1,0 +1,38 @@
+.banner{
+  height: 90vh;
+  color: background: linear-gradient(-225deg, rgba(30,30,30,0.6) 30%, rgba(46,46,46,0.5) 80%), url("http://unsplash.it/400/300/?random");
+  background-size: cover;
+  background-image: url("https://cdn.glitch.com/1d273856-2caf-495f-b1f5-a7055e076864%2Fopacity-banner.png?v=1619817858213");
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+
+}
+
+.banner h1 {
+  font-family: Futura;
+  color: #db0940;
+  font-size: 50px;
+  font-weight: bolder;
+}
+
+.banner h2 {
+  font-family: Futura;
+  color: #db0940;
+  opacity: 50%;
+  font-size: 40px;
+  font-weight: bolder;
+}
+
+.banner p {
+  font-family: Futura light, sans-serif;
+  font-size: 30px;
+  font-weight: lighter;
+  text-shadow: 0px 0px 1px #f6f7f7;
+}
+
+.banner a{
+  margin: 20px 0 0 0;
+}
+
