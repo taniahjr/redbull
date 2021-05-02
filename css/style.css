@@ -1,0 +1,87 @@
+/* CSS files add styling rules to your content */
+
+@import url("avatar.css");
+@import url("banner.css");
+@import url("tabs.css");
+@import url("card.css");
+
+
+body {
+  font-family: futura, arial, sans-serif;
+  margin: 2em;
+  background-color: white;
+  margin: 0;
+}
+
+
+.card{
+  padding: 50px;
+  text-align: center;
+}
+
+#footer{
+  background: #e4e4e4;
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+  margin: 40px 0 0 0;
+}
+
+#footer a{
+  font-size: 20px;
+  color: #e41b4d;
+}
+
+#footer a:hover{
+  text-decoration: none;
+  color: black;
+}
+
+#form-title h2{
+  color: #ff0a4b;
+}
+
+
+.description {
+    text-align: center;
+    font-family: Futura, sans-serif;
+    margin: 50px 0 0 0;
+}
+
+.description h3 {
+  margin: 0 0 40px 0;
+  color: #db0940;
+  font-size: 50px;
+  font-weight: bolder;
+  opacity: 20%
+}
+
+.description p {
+  font-family: Futura;
+  margin: 0 0 40px 0;
+  color: #db0940;
+  font-size: 25px;
+  font-weight: lighter;
+}
+
+
+.more-content{
+  text-align: center;
+  position: relative;
+  color: #db0940;
+  margin: 0 0 50px 0; 
+  font-size: 20px;
+
+}
+
+.more-content:hover{
+  color: black
+}
+
+#form-user{
+  text-align: center;
+}
+
+#butt{
+  align-items: center;
+}
