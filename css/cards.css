@@ -1,0 +1,76 @@
+.card{
+  position: relative;
+  height: 50vh;
+  background: linear-gradient(-225deg, rgba(100,100,100,0.6) 30%, rgba(10,10,10,0) 80%);
+  background-size: cover;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+}
+
+.card-category{
+  position: absolute;
+  top: 10px;
+  left:10px; 
+}
+.card-description{
+  position: absolute;
+  display: flex;
+  justify-content: space-around;
+  bottom: 10px;
+}
+
+.card-description a {
+  color: white;
+  text-decoration: none;
+}
+
+#photo1{
+  background-image: url("https://cdn.glitch.com/1d273856-2caf-495f-b1f5-a7055e076864%2FSI202008240128_hires_jpeg_24bit_rgb.jpg?v=1619844892501")
+}
+
+#photo2{
+  background-image: url("https://cdn.glitch.com/1d273856-2caf-495f-b1f5-a7055e076864%2FSI202008240129_news.jpg?v=1619844902776")
+}
+
+#photo3{
+  text-shadow: 1px 1px 1px black;
+  background-image: url("https://cdn.glitch.com/1d273856-2caf-495f-b1f5-a7055e076864%2FSI201808200254_news.jpg?v=1619847962873")
+ 
+}
+
+#photo4{
+  background-image: url("https://cdn.glitch.com/1d273856-2caf-495f-b1f5-a7055e076864%2Fmen1.jpg?v=1619897968554")
+}
+
+#photo5{
+  background-image: url("https://cdn.glitch.com/1d273856-2caf-495f-b1f5-a7055e076864%2Fmen2.jpg?v=1619897974060")
+}
+
+#photo6{
+  background-image: url("https://cdn.glitch.com/1d273856-2caf-495f-b1f5-a7055e076864%2Fmen3.jpg?v=1619897977153")
+}
+
+#photo7{
+  background-image: url("https://cdn.glitch.com/1d273856-2caf-495f-b1f5-a7055e076864%2Fwomen1.jpg?v=1619897981395")
+}
+
+#photo8{
+  background-image: url("https://cdn.glitch.com/1d273856-2caf-495f-b1f5-a7055e076864%2Fwomen2.jpg?v=1619897985984")
+}
+
+#photo9{
+  background-image: url("https://cdn.glitch.com/1d273856-2caf-495f-b1f5-a7055e076864%2Fwomen3.jpg?v=1619897990267")
+}
+
+#photo10{
+  background-image: url("https://cdn.glitch.com/1d273856-2caf-495f-b1f5-a7055e076864%2Fgoodies2.jpg?v=1619897961904")
+}
+
+#photo11{
+  background-image: url("https://cdn.glitch.com/1d273856-2caf-495f-b1f5-a7055e076864%2Fgoodies3.jpg?v=1619897964684")
+}
+
+#photo12{
+  background-image: url("https://cdn.glitch.com/1d273856-2caf-495f-b1f5-a7055e076864%2Fgoodies1.jpg?v=1619897952272")
+}
